@@ -3,6 +3,13 @@ html * {
     padding: 0;
 }
 
+#gridSize {
+    font-size: 24px;
+    font-weight: bold;
+    display: inline-block;
+    margin: 24px 24px 24px 10px;
+}
+
 #main-container {
     display: grid;
     width: 768px;
